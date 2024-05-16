@@ -1,4 +1,4 @@
-<h2 align="center">Hello there!!! I'm Mokshita. I have a goal and I'm working for it.</h2>
+<h2 align="center">Hello there!!!I have a goal and I'm working for it.</h2>
 <h4 align="center">I'm here to learn and build community. On a journey of skillful learning.</h4>
 
 <h5 align="left">Skills I've come to acquire until now along the way:</h5>
